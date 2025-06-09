@@ -1,0 +1,16 @@
+Group	Metin
+{
+	Mob	8059
+	Type	drop
+	1	50300	5	500
+}
+
+Group	Metin2
+{
+	Mob	8061
+	Type	drop
+	1	50300	5	70
+	2	50300	5	70
+	3	50300	5	70
+	4	50300	5	70
+}

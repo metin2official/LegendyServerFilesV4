@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "special_storage.dds"
+left 120
+top 54
+right 160
+bottom 81

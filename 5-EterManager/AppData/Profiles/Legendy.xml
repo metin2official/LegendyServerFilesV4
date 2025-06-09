@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Legendy</Name>
+  <WorkingDirectory>C:\Metin2\LegendyFilesV4\1-Client\pack\</WorkingDirectory>
+  <UnpackDirectory>C:\Metin2\LegendyFilesV4\1-Client\unpack\</UnpackDirectory>
+  <IndexKey>H2rSQtV7Dy9xo/hUKffcaQ==</IndexKey>
+  <PackKey>Z3HwaiGROWGB56ZYpQyQbg==</PackKey>
+  <IndexExtension>.legendy</IndexExtension>
+  <PackExtension>.filesv4</PackExtension>
+  <IsDefault>true</IsDefault>
+</ClientProfile>

@@ -1,0 +1,49 @@
+# BGM
+# config
+# lib
+# mark
+# miles
+offlineshop
+pack
+# unpack/bgm
+# unpack/effect
+# unpack/etc
+# unpack/icon
+# unpack/item
+# unpack/locale
+# unpack/maps
+# unpack/monster
+# unpack/npc
+# unpack/pc
+# unpack/pc2
+# unpack/pc3
+# unpack/property
+# unpack/root
+# unpack/season
+# unpack/sound
+# unpack/textureset
+# unpack/zone
+# upload
+# 1-metin2client.exe
+# artpclnt.dll
+# bdvid32.dll
+channel.inf
+# config.exe
+# devil.dll
+# DSETUP.dll
+# granny2.dll
+# ijl15.dll
+# ilu.dll
+locale.cfg
+metin2.cfg
+# metin2.ico
+mouse.cfg
+# mscoree.dll
+# MSS32.DLL
+# msvcp60.dll
+# MSVCRTD.DLL
+# patchw32.dll
+# python27.dll
+# SpeedTreeRT.dll
+syserr.txt
+# unicows.dll

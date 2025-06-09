@@ -1,0 +1,24 @@
+.vs
+bin
+# CWebBrowser
+# EffectLib
+# EterBase
+# EterGrnLib
+# EterImageLib
+# EterLib
+# EterLocale
+# EterPack
+# EterPythonLib
+# GameLib
+# MilesLib
+# PRTerrainLib
+# ScriptLib
+# SpeedTreeLib
+# SphereLib
+# UserInterface
+# Metin2Client.sln
+
+Release
+Debug
+Distribution
+

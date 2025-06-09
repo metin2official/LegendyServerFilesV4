@@ -1,0 +1,9 @@
+__REVISION__
+.obj
+db_r*
+game_r*
+db_symlink
+game_symlink
+.vs
+*.o
+*.a

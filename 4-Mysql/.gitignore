@@ -1,0 +1,12 @@
+account
+common
+hotbackup
+log
+mysql
+performance_schema
+player
+*.cnf
+ib_logfile*
+ibdata*
+*.err
+*.pid

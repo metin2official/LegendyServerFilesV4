@@ -123,6 +123,7 @@ EKLENEN SİSTEMLER
 #define ENABLE_DUEL_EFFECT						// Düello Efekt Modülü
 #define ENABLE_STATUS_UP_RENEWAL				// Hızlı Statü Sistemi
 #define ENABLE_TIME_CONTROL						// Giyilebilir Nesnelere Süre Eklentisi
+#define __RENEWAL_NOTICE__						// Sistem mesajları için çok önemli bir eklenti (/n) 
 
 
 
